@@ -1,0 +1,22 @@
+.flex-all-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.btn{
+    width: 11vw;
+    height: 6vh;
+    position: relative;
+    left: 10px;
+    background: white;
+    border-radius: 5px;
+    cursor: pointer;
+    font-family: 'Rubik Maps', system-ui;
+}
+.my-1{
+    margin: 15px 0;
+}
+.my-2{
+    margin: 25px 0;
+}
